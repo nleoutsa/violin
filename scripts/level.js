@@ -149,6 +149,48 @@ var level_02 = [
 ];
 
 var level_03 = [
+    "    x                                                                    ",
+    "    x                                                                    ",
+    "    x                                                                    ",
+    "  @ x                             x xx x                                 ",
+    " xxxx                            xx xx xxx                               ",
+    "    x                          xxxx xx xxxxx                             ",
+    "    x                        xxxxxx xxoxxxxxxx                           ",
+    "    x                     xxxxxxxxx xxoxxxxxxxxxx                        ",
+    "    x                  xxxxxxxxxxxx xxoxxxxxxxxxxxxx                     ",
+    "    x              xxxxxx           xxoxxxxxxxxxxxxxxxxx                 ",
+    "    x                      xxxxxxxxxxxoxxxxxxxx                          ",
+    "    x        xxx           xxxxxxxxxxxoxxxxxxxx                          ",
+    "    x                      xxooooooooooxxxxxxxx                          ",
+    "    x                      xxoxxxxxxxxxxxxxxxxx                          ",
+    "    x                      xxoxxxxxxxxxxxxxxxxx                          ",
+    "    x                      xxoxxxxxxxxxxxxxxxxx                          ",
+    "    x                      xxoxxxxxxxxxxxxooo                            ",
+    "    xTT                    xxoxxxxxxxxxxxxoxxxx                          ",
+    "    xxx                    xxoxxxxxxxxxxxxoxxxx                          ",
+    "    x        xxx      xxxxxxxoxx      xxxxoxxxxxxxxx                     ",
+    "    x                xxxxxxxxoxxx xxooxxxxoxxxxxxxxxx                    ",
+    "    x               xxxxxxxxxoxxx xxooxxxxoxxxxxxxxxxx                   ",
+    "    x              xxxxxxxxxxoxxx xxooxxxxoxxxxxxxxxxxx                  ",
+    "    x             xxxxxxxxxxxoxxx xxooxxxxoxxxxxxxxxxxxx                 ",
+    "    x            xxxxxxxxxxxxoxxx xxooxxxxooooooooxxxxxxx                ",
+    "    x                xxxxxxxxoxxx xxooxxxxxxxxxxxoxxxxxxxx               ",
+    "    x           xxxx xxxxxxxxoxxx xxooxxxxxxxxxxxoxxxxxxxx               ",
+    "    x           xxxx xxxxxxxx xxx xxooooooooooooxoooooooooo              ",
+    "    x           xxxx xxxxxxxx xxx xxxxxxxxxxxxooxxxxxxxxxx  o            ",
+    "    x           xxxx xxxxxxxx x     xxxxxxxxxxooxxxxxxxxxx    o          ",
+    "    x           xxxx xxxxxxxx x=====xxxxxxxxxxooxxxxxxxxxx      o        ",
+    "    x           xxxx xxxxxxx  xxxxxxxxxxxxxxxxooxxxxxxxxxx       o       ",
+    "    x           xxxx xxxxxx   xxxxxxxxxxxxxxxxooxxxxxxxxxx        o      ",
+    "    x      TT   xxxxT                  xxxxxxxooxxxxxxxxxx         o     ",
+    "           xx   xxxxxxxxxxxxx          xxxxxxxooxxxxxxxxxx          o    ",
+    "                xxxxxxxxxxxxx==========xxxxxxxTT                    o    ",
+    "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+];
+
+var level_04 = [
     "                                                                         ",
     "                                                                         ",
     "                                                                         ",
@@ -179,7 +221,7 @@ var level_03 = [
 
 ];
 
-var GAME_LEVELS = [level_00, level_01, level_02, level_03];
+var GAME_LEVELS = [level_00, level_01, level_02, level_03, level_04];
 
 var actorChars = {
     "@": Player,
