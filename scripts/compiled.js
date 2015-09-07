@@ -202,7 +202,9 @@ var level_02 = [
     "xxxxxx            TTT                 ",
     "xxxxxxx     x     xxx    x     xxxx===",
     "xxxxxxx                        xxxxxxx",
-    "xxxxxxx========================xxxxxxx"
+    "xxxxxxx========================xxxxxxx",
+    "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 ];
 
