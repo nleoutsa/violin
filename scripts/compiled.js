@@ -148,6 +148,7 @@ var level_01 = [
 
 var level_02 = [
     "                                      ",
+    "                                      ",
     "                      xxxxxxxxxooooooo",
     "                      xxxxxxxxxooooooo",
     "                      xxxxxxxxxooooooo",
