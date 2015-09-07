@@ -147,12 +147,12 @@ var level_01 = [
 ];
 
 var level_02 = [
-    "v v v v v v v         xxxxxxxxx      o",
-    " v v v v v v          xxxxxxxxx      o",
-    "                      xxxx    x      o",
-    "                      xxx  xxxx      o",
-    "                      xx  xxxxx      o",
-    "         xxxxxx       x  xxxxxx      o",
+    "                      xxxxxxxxx      o",
+    " v   v   v            xxxxxxxxx      o",
+    "                      xxx     x      o",
+    "                      xx   xxxx      o",
+    "                      x   xxxxx      o",
+    "         xxxxxx          xxxxxx      o",
     "        x      x        xxxxxxx      o",
     "                       xxxxxxxx      o",
     "          oooo     @  xxxxxxxxx      o",
