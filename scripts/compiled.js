@@ -148,13 +148,13 @@ var level_01 = [
 
 var level_02 = [
     "                      xxxxxxxxx      o",
-    " v   v   v            xxxxxxxxx      o",
+    "                      xxxxxxxxx      o",
     "                      xxx     x      o",
     "                      xx   xxxx      o",
     "                      x   xxxxx      o",
     "         xxxxxx          xxxxxx      o",
     "        x      x        xxxxxxx      o",
-    "                       xxxxxxxx      o",
+    "        |              xxxxxxxx      o",
     "          oooo     @  xxxxxxxxx      o",
     "       xxxxxxxxxxxxxxxxxxxxxxxx    o T",
     "       xxxxxxxxxxxx xxxxxxxxxxx   o   ",
@@ -169,12 +169,12 @@ var level_02 = [
     "       xxxxxxxxxxxxTxxxxxxxxxxx    o T",
     "       xxxxxxxxxxxx xxxxxxxxxxx   o   ",
     "       xxxxxxxxxxxx xxxxxxxxxxx  o    ",
-    "       xxxxxxxxxxxx xxxxxxxxxxx o     ",
-    "       xxxxxxxxxxxx xxxxxxxxxxxo      ",
-    "       xxxxxxxxxxxx xxxxxxxxxxxT o    ",
-    "      xxxxxxxxxxxxx xxxxxxxxxxx   o   ",
-    "     x    ooooooo xTxxxxxxxxxxx    o  ",
-    "        xxxxxxxxxxx xxxxxxxxxxx     o ",
+    "      xxxxxxxxxxxxx xxxxxxxxxxx o     ",
+    "     x    ooooooo x xxxxxxxxxxxo      ",
+    "        xxxxxxxxxxx xxxxxxxxxxxT o    ",
+    "       xxxxxxxxxxxx xxxxxxxxxxx   o   ",
+    "       xxxxxxxxxxxxTxxxxxxxxxxx    o  ",
+    "       xxxxxxxxxxxx xxxxxxxxxxx     o ",
     "       xxxxxxxxxxxx xxxxxxxxxxx      o",
     "       xxxxxxxxxxxx xxxxxxxxxxx    o T",
     "       xxxxxxxxxxxx xxxxxxxxxxx   o   ",
@@ -199,9 +199,10 @@ var level_02 = [
     "xxx                                  T",
     "xxxx                                  ",
     "xxxxx                                 ",
-    "xxxxxx      x     TTT                 ",
-    "xxxxxxx===========xxx==========xxxx===",
-    "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    "xxxxxx            TTT                 ",
+    "xxxxxxx     x     xxx    x     xxxx===",
+    "xxxxxxx                        xxxxxxx",
+    "xxxxxxx========================xxxxxxx"
 
 ];
 
