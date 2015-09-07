@@ -154,7 +154,7 @@ var level_02 = [
     "                      x   xxxxx      o",
     "         xxxxxx          xxxxxx      o",
     "        x      x        xxxxxxx      o",
-    "        |              xxxxxxxx      o",
+    "                       xxxxxxxx      o",
     "          oooo     @  xxxxxxxxx      o",
     "       xxxxxxxxxxxxxxxxxxxxxxxx    o T",
     "       xxxxxxxxxxxx xxxxxxxxxxx   o   ",
