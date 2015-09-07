@@ -591,7 +591,6 @@ DOMDisplay.prototype.drawActors = function() {
     var sun_progress = (sun_pos.x * scale) / (this.level.width * scale);
     var atmosphere_brightness = Math.sin((Math.PI) * (sun_progress));
 
-console.log(daytime);
     if (daytime) {
         this.daylight.style.background = 'rgba(0,0,0,' + (1 - atmosphere_brightness) + ')';
         sun.style.background = 'rgba( 255, ' + (220 + Math.floor(30 * atmosphere_brightness)) + ', 200, 1)';
@@ -695,7 +694,6 @@ DOMDisplay.prototype.scrollPlayerIntoView = function() {
 
 DOMDisplay.prototype.clear = function() {
     count = 0;
-    console.log('clear');
     this.container.parentNode.removeChild(this.container);
 };
 
@@ -792,7 +790,6 @@ function runLevel(level, Display, andThen) {
         if (event.keyCode == 80) {
 
             paused = !paused;
-            console.log(paused);
             runAnimation(function(step) {
                 callAnimation(step);
                 if (paused) {
@@ -815,7 +812,6 @@ function runGame(plans, Display) {
                 if (lives <= 0) {
                     lives = LIVES;
                     coins = 0;
-                    console.log(Display);
                     startLevel(0, LIVES);
                 }
                 else
@@ -829,7 +825,6 @@ function runGame(plans, Display) {
             }
             else {
                 lives = LIVES;
-                console.log(Display);
                 startLevel(0, LIVES);
             }
 
