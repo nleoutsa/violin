@@ -16,10 +16,6 @@ var count = 0;
 var sun_height = 0;
 var sun_pos = new Vector (-3, 3);
 
-var arrows = trackKeys(arrowCodes);
-var LIVES = 3;
-var lives = LIVES;
-var coins = 0;
 
 var arrowCodes = {
     37: "left",
@@ -30,6 +26,12 @@ var arrowCodes = {
     16: "shift",
     80: "p"
 };
+
+var arrows = trackKeys(arrowCodes);
+var LIVES = 3;
+var lives = LIVES;
+var coins = 0;
+
 
 var level_00 = [
     "                        ",
