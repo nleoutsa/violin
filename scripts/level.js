@@ -223,7 +223,7 @@ var level_04 = [
 
 var level_05 = [
     "v v v v v v v                        o",
-    " v v v v v v                         o",
+    "                                     o",
     "                                     o",
     "                                     o",
     "                                     o",
