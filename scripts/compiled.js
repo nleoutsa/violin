@@ -527,7 +527,7 @@ Player.prototype.act = function(step, level, keys) {
 
 
 function Lava (pos, char) {
-    this.pos = pos;
+    this.base_pos = this.pos = pos;
     this.size = new Vector(1, 1);
 
     if (char == "=") {
